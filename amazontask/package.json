@@ -10,7 +10,7 @@
     "react-dom": "^16.8.6",
     "react-md": "^1.12.1",
     "react-md-icon": "^1.13.0",
-    "react-scripts": "3.0.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
